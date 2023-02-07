@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Narges
-- I've taught principals of compilers and programming languages for many years.
+- I've taught principles of compilers and programming languages for many years.
 - What you can find in this Git:
    1. A number of repositories that I used as materials in my classes. They are very simple and useful for learning.  </LI>
    2. A few repositories for my research purposes.</LI>
