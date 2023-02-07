@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Narges
-- 👀 I’m interested in Java, JS, NodeJS, compilers, antlr.
-- 🌱 I’m currently learning React, security
-- 💞️ I’m looking to collaborate on NodeJS, java and antlr projects
+- I've taught principals of compilers and programming languages for many years.
+- What you can find in this Git:
+-  A number of repositories that I used as materials in my classes. They are very simple and useful for learning.  
+-  A few repositories for my research purposes.
 - 📫 How to reach me : narges.s.batheian@gmail.com
 
 <!---
